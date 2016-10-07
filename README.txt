@@ -1,0 +1,1 @@
+This extension will store all configurations and setups scripts for Aboshop v.2
